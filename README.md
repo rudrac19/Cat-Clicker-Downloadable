@@ -11,9 +11,5 @@ Just play it. Help your fingers relax.
   -Improved game UI
   -Removed game logo files
   -Replaced game logo
-  Update 1.1 is going to release in February 2023.
-  
-# Update 1.2 
-  
-  Update 1.2 is going to release in March 2023.
-  
+
+
